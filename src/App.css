@@ -1,0 +1,58 @@
+.App {
+ padding: 10px;
+ border: 5px;
+ border-color: black;
+ margin: 5px;
+}
+
+h1{
+  text-align: center;
+}
+
+.form{
+  background-color: beige;
+  float: right;
+  width: 75%;
+  height: auto;
+}
+
+.addButton {
+  background-color: rgb(201, 192, 239);
+  padding: 10px;
+  width:20%;
+  display: flex;
+  margin: 5px;
+}
+
+.submitButton {
+  background-color: rgb(236, 136, 150);
+  padding: 10px;
+  width:20%;
+  margin: 5px;
+}
+
+/* .clearButton{
+  background-color: rgb(236, 136, 150);
+  padding: 10px;
+  width:130px;
+  margin: 5px;
+} */
+
+button:hover{
+  font-size:small;
+}
+
+button:active{
+  background-color:rgb(138, 95, 238);
+}
+
+label{
+  margin: 5px;
+}
+
+.fieldinfo {
+  display: flex;
+  margin: 5px;
+  width: 25%;
+}
+
